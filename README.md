@@ -1,1 +1,0 @@
-# hadoop-eclipse-plugin
